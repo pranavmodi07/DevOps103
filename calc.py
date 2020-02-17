@@ -8,7 +8,7 @@ def sub(x,y):
 
 def multiply(x,y):
     """Multiply Funtion"""
-    return x*y
+    return x
 
 def divide(x,y):
     """Divide Funtion"""
